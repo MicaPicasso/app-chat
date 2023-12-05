@@ -1,0 +1,16 @@
+*{
+    font-family: monospace;
+}
+body{
+    background-color: #F97A7A;;
+}
+#chatbox{
+    width: 100%;
+    padding: 10px 0;
+    background-color: #FFD0D0;
+}
+
+.container-chatbox{
+    margin-left: 20px;
+    margin-right: 20px;
+}
